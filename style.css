@@ -1,4 +1,4 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -34,9 +34,9 @@ body {
 .receipt-header-txt {
     text-align: center;
     font-weight: 900;
-    font-size: 3vw ;
-    
-    
+    font-size: 3vw;
+
+
 }
 
 .Address {
